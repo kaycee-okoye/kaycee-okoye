@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a seasoned software engineer with a passion fo
 
 - 📱 **Flutter App Development:** Specialized in creating sleek and responsive cross-platform applications.
 - 🐍 **Python Scripting:** Proficient in leveraging the power of Python for efficient and scalable scripting solutions.
-- 🌐 **Diverse Software Development:** My expertise extends beyond app development. For instance, I delved into the realms of computer vision and data analysis. I utilized cutting-edge techniques to extract valuable insights from images captured during experiments.
+- 🌐 **Diverse Software Development:** My expertise extends beyond app development. For instance, in a past project, I delved into the realms of computer vision and data analysis. I utilized cutting-edge techniques to extract valuable insights from images captured during experiments.
 
 ## Let's Collaborate!
 
