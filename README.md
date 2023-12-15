@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Kenechukwu "Kaycee" Okoye]
+# Hi there! 👋 I'm Kenechukwu "Kaycee" Okoye
 
 🚀 Software Engineer | Flutter Enthusiast | Python Scripter
 
